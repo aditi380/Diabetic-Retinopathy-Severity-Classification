@@ -76,4 +76,16 @@ python app.py
 4. **Access the application:**
    Open your browser and navigate to http://127.0.0.1:5000/
 
+## Application Screenshots
+
+### Login Page
+![Login](images/login.png)
+
+### Dashboard
+![Dashboard](images/dashboard.png)
+
+### Prediction Result
+![Result](images/result.png)
+
+
 
