@@ -37,10 +37,7 @@ The primary model is a 2D CNN consisting of:
 
 ## Project Structure
 ```
-📁 DIABETIC_RETINOPATHY/
-│
-├── 📁 .qodo/                         # Project configuration / metadata
-├── 📁 .venv/                          # Python virtual environment
+📁 Diabetic-Retinopathy-Severity-Classification
 │
 ├── 📁 templates/                      # HTML templates for the web interface
 │   ├── dashboard.html                 # User dashboard after login
@@ -78,4 +75,5 @@ python app.py
 
 4. **Access the application:**
    Open your browser and navigate to http://127.0.0.1:5000/
+
 
